@@ -10,4 +10,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeInoe&layout=compact&langs_count=8" />
 </a>
 
+<p align="center">
+  <a href="https://github.com/GuilhermeInoe">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeInoe"/>
+  </a>
+</p>
+
 <img width=100% src="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572"/>
