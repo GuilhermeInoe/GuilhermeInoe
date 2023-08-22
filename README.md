@@ -3,17 +3,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Guilherme+Inoe+Araujo:%29)](https://git.io/typing-svg)
 
 
-<a href="https://github.com/GuilhermeInoe" align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeInoe" />
-</a>
-<a href="https://github.com/GuilhermeInoe" align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeInoe&layout=compact&langs_count=8" />
-</a>
-
-<p align="center">
+<div style="text-align: center;">
   <a href="https://github.com/GuilhermeInoe">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeInoe"/>
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=GuilhermeInoe" />
   </a>
-</p>
+  <a href="https://github.com/GuilhermeInoe">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeInoe&layout=compact&langs_count=8" />
+  </a>
+  
+  <p>
+    <a href="https://github.com/GuilhermeInoe">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeInoe"/>
+    </a>
+  </p>
+</div>
+
 
 <img width=100% src="https://camo.githubusercontent.com/478c2e71786ef0b7594563a540d5469f19c2f6a7989567e7277addf3e80031e6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572"/>
