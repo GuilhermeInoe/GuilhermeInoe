@@ -12,5 +12,5 @@
 <div align="center"><h3>💻 Tecnologias e Ferramentas</h3><p><img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,html,css,tailwind,git,vscode&perline=7" alt="Ícones de tecnologias"/></p></div>
 <hr>
 <!-- Secção de Contacto -->
-<div align="center"><h3>📬 Conecte-se comigo</h3><p><a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><!-- Adicione outras redes sociais se desejar --><!--<a href="https://instagram.com/seuinstagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>--></p></div>
+<div align="center"><h3>📬 Conecte-se comigo</h3><p><a href="mailto:guilhermeinoe82@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a><a href="https://linkedin.com/in/guilherme-inoe-b00462338/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <!-- Final do README --
