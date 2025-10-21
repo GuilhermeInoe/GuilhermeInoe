@@ -1,8 +1,7 @@
-<!-- Início do README -->
-<!-- Cabeçalho com animação de digitação -->
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=1b98ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme+Inoe+Araujo+👋" alt="Typing SVG"></div>
-<!-- Secção "Sobre Mim" -->
-<div align="left"><h3>🚀 Sobre Mim</h3><p>Atualmente estou focado em desenvolver meu raciocínio lógico e expandir meu domínio sobre ferramentas modernas, sempre buscando evoluir como desenvolvedor e encarar novos desafios com entusiasmo!
+ <!--<div align="center"><img src="https://readme-typing-svg.herokuapp.com?color=1b98ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Guilherme+Inoe+Araujo+👋" alt="Typing SVG"></div> -->
+
+
+ <!--<div align="left"><h3>🚀 Sobre Mim</h3><p>Atualmente estou focado em desenvolver meu raciocínio lógico e expandir meu domínio sobre ferramentas modernas, sempre buscando evoluir como desenvolvedor e encarar novos desafios com entusiasmo! -->
 </p></div>
 <hr>
 <!-- Secção de Estatísticas do GitHub -->
